@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TashiroNet_Explanation/static/css/main.29fbda68.css",
+    "main.js": "/TashiroNet_Explanation/static/js/main.aa74c14d.js",
+    "static/js/787.1b8d0886.chunk.js": "/TashiroNet_Explanation/static/js/787.1b8d0886.chunk.js",
+    "index.html": "/TashiroNet_Explanation/index.html",
+    "main.29fbda68.css.map": "/TashiroNet_Explanation/static/css/main.29fbda68.css.map",
+    "main.aa74c14d.js.map": "/TashiroNet_Explanation/static/js/main.aa74c14d.js.map",
+    "787.1b8d0886.chunk.js.map": "/TashiroNet_Explanation/static/js/787.1b8d0886.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29fbda68.css",
+    "static/js/main.aa74c14d.js"
+  ]
+}
