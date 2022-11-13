@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TashiroNet_Explanation.git/static/css/main.639e31c4.css",
-    "main.js": "/TashiroNet_Explanation.git/static/js/main.7cbfe48f.js",
-    "static/js/787.1b8d0886.chunk.js": "/TashiroNet_Explanation.git/static/js/787.1b8d0886.chunk.js",
-    "index.html": "/TashiroNet_Explanation.git/index.html",
-    "main.639e31c4.css.map": "/TashiroNet_Explanation.git/static/css/main.639e31c4.css.map",
-    "main.7cbfe48f.js.map": "/TashiroNet_Explanation.git/static/js/main.7cbfe48f.js.map",
-    "787.1b8d0886.chunk.js.map": "/TashiroNet_Explanation.git/static/js/787.1b8d0886.chunk.js.map"
+    "main.css": "/TashiroNet_Explanation/static/css/main.639e31c4.css",
+    "main.js": "/TashiroNet_Explanation/static/js/main.0c1f483b.js",
+    "static/js/787.1b8d0886.chunk.js": "/TashiroNet_Explanation/static/js/787.1b8d0886.chunk.js",
+    "index.html": "/TashiroNet_Explanation/index.html",
+    "main.639e31c4.css.map": "/TashiroNet_Explanation/static/css/main.639e31c4.css.map",
+    "main.0c1f483b.js.map": "/TashiroNet_Explanation/static/js/main.0c1f483b.js.map",
+    "787.1b8d0886.chunk.js.map": "/TashiroNet_Explanation/static/js/787.1b8d0886.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.639e31c4.css",
-    "static/js/main.7cbfe48f.js"
+    "static/js/main.0c1f483b.js"
   ]
 }
